@@ -1,0 +1,1 @@
+export { hasNestedProperty } from './has-nested-property';
